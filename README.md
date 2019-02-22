@@ -25,7 +25,7 @@
    3.1. Queue 主要方法 
 
    3.2. Deque 主要方法
-   
+
    3.3. 主要实现类
 
 4. Map接口 
@@ -40,26 +40,26 @@
 
 5. Set接口
 
-    5.1. SortedSet接口 
+   5.1. SortedSet接口 
 
    5.2. NavigableSet接口
 
 6. 实现类小结
 
 7. 迭代器
-  7.1. Iterable
+   7.1. Iterable
 
-   7.2. Iterator 
+    7.2. Iterator  
 
- 	   7.2.1. Iterator主要方法 
+   ​	7.2.1. Iterator主要方法
 
-   	7.2.2. 游标模式
-      
-   	7.2.3. fail-fast机制 
+   ​	7.2.2. 游标模式
 
-  7.3. ListIterator 
+   ​	7.2.3. fail-fast机制 
 
-  7.3.1. ListIterator主要方法 
+   7.3. ListIterator 
+
+   ​	7.3.1. ListIterator主要方法 
 
 ## 常用工具类库
 
@@ -76,7 +76,7 @@
 1. String类 
 
    1.1. 构造方法
-   
+
    1.2. String的不可变形 
 
    1.3. String.format 
@@ -85,11 +85,16 @@
 
    1.5. String与正则表达式
     	 1.5.1 正则表达式简介    
+
     	 1.5.2. 常用的正则表达式词法      
+
     	 1.5.3. 正则示例     
+
     	 1.5.4 String.matches()匹配正则表达式    
+
     	 1.5.4 String.split()从正则表达式匹配的地方分离 
     	 1.5.5 替换与正则表达式匹配的地方
+
 2. StringBuilder类 
    2.1. StringBuilder的构造方法
    2.2. StringBuilder的常用方法
@@ -111,7 +116,9 @@
    2.2. 为什么重写equals的同时还得重写hashCode
 
    2.3. 快速生成hashCode和equals
+
     	2.3.1 使用Objects的静态方法
+
      	2.3.2 IDEA自动生成hashCode与equals的方式
 
    2.4. 总结
@@ -136,24 +143,24 @@
 
 1. List实现类
 
-    1.1. ArrayList
+   1.1. ArrayList
 
-    1.2. LinkedList
+   1.2. LinkedList
 
 2. Map实现类
 
-    2.1. HashMap
+   2.1. HashMap
 
    2.2. TreeMap
 
 3. Queue实现类
 
-    3.1. ArrayDeque
+   3.1. ArrayDeque
 
-    3.2. PriorityQueue 
+   3.2. PriorityQueue 
 
 4. Set实现类
 
-    4.1. HashSet
+   4.1. HashSet
 
-    4.2. TreeSet
+   4.2. TreeSet
