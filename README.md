@@ -128,9 +128,9 @@
 
        2.3. 快速生成hashCode和equals
 
-        	2.3.1 使用Objects的静态方法
+          2.3.1 使用Objects的静态方法
 
-        	2.3.2 IDEA自动生成hashCode与equals的方式
+          2.3.2 IDEA自动生成hashCode与equals的方式
 
        2.4. 总结
 
