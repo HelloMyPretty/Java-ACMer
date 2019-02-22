@@ -47,6 +47,7 @@
 6. 实现类小结
 
 7. 迭代器
+
    7.1. Iterable
 
     7.2. Iterator  
@@ -84,23 +85,23 @@
    1.4. String的常用方法 
 
    1.5. String与正则表达式
-   
-      1.5.1 正则表达式简介
-      
-      1.5.2. 常用的正则表达式词法  
-      
-      1.5.3. 正则示例     
-      
-      1.5.4 String.matches()匹配正则表达式 
-      
-      1.5.5 String.split() 从正则表达式匹配的地方分离
-      
-      1.5.6 替换与正则表达式匹配的地方
+
+   ​	1.5.1 正则表达式简介
+
+      	1.5.2. 常用的正则表达式词法  
+
+   ​	1.5.3. 正则示例       
+
+    	1.5.4 String.matches()匹配正则表达式 
+
+   ​	1.5.5 String.split() 从正则表达式匹配的地方分离
+
+      	1.5.6 替换与正则表达式匹配的地方
 
 2. StringBuilder类 
 
    2.1. StringBuilder的构造方法
-   
+
    2.2. StringBuilder的常用方法
 
 3. 基本数据类型与字符串的转换
@@ -120,10 +121,10 @@
    2.2. 为什么重写equals的同时还得重写hashCode
 
    2.3. 快速生成hashCode和equals
-   
-      2.3.1 使用Objects的静态方法
-      
-      2.3.2 IDEA自动生成hashCode与equals的方式
+
+   ​	2.3.1 使用Objects的静态方法
+
+   ​	 2.3.2 IDEA自动生成hashCode与equals的方式
 
    2.4. 总结
 
