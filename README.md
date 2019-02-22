@@ -10,11 +10,11 @@
 
 1. Collection接口 
 
-  1.1. Collection主要方法 
+   1.1. Collection主要方法 
 
-  1.2. Collection对集合运算的支持 
+   1.2. Collection对集合运算的支持 
 
-  1.3. Collection转化为数组toArray() 
+   1.3. Collection转化为数组toArray() 
 
 2. List接口 
 
@@ -81,14 +81,14 @@
 
    1.5. String与正则表达式
 
-   ​	 1.5.1 正则表达式简介
-   ​	 1.5.2. 常用的正则表达式词法
-   ​	 1.5.3. 正则示例
+    	 1.5.1 正则表达式简介
+    	 1.5.2. 常用的正则表达式词法
+    	 1.5.3. 正则示例
 
     	 1.5.4 String.matches()匹配正则表达式 
 
-   ​	 1.5.4 String.split()从正则表达式匹配的地方分离
-   ​	 1.5.5 替换与正则表达式匹配的地方
+    	 1.5.4 String.split()从正则表达式匹配的地方分离
+    	 1.5.5 替换与正则表达式匹配的地方
 
 2. StringBuilder类 
 
@@ -114,9 +114,9 @@
 
    2.3. 快速生成hashCode和equals
 
-   ​	2.3.1 使用Objects的静态方法
+    	2.3.1 使用Objects的静态方法
 
-   ​	2.3.2 IDEA自动生成hashCode与equals的方式
+     	2.3.2 IDEA自动生成hashCode与equals的方式
 
    2.4. 总结
 
