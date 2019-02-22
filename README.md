@@ -65,11 +65,17 @@
     ## 常用工具类库
 
     1. Collections类 
+    
     2. Arrays类 
+    
     3. Math类 
+    
     4. BigInteger类 
+    
     5. Random类 
+    
     6. Scanner类 
+    
     7. System.out
 
     ## 字符串
@@ -122,7 +128,7 @@
 
        2.3. 快速生成hashCode和equals
 
-       ​	2.3.1 使用Objects的静态方法
+        	2.3.1 使用Objects的静态方法
 
         	2.3.2 IDEA自动生成hashCode与equals的方式
 
